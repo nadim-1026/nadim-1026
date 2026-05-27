@@ -1,18 +1,131 @@
-<h1 align="center">Hi 👋, I'm Nadim Shah</h1>
-<h3 align="center">A passionate AI Engineer with Mechanical Engineering Degree👨‍💻</h3>
+# Hi 👋, I'm Nadim Shah
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadim-1026&label=Profile%20views&color=0e75b6&style=flat" alt="nadim-1026" /> </p>
+### AI Engineer | Computer Vision Engineer | Machine Vision Developer
 
-- 🌱 I’m currently learning **AWS, Advance Neural Network Algorithms**
+I am an AI Engineer with 2+ years of experience in **Computer Vision, Deep Learning, Industrial AI Systems, and Machine Vision Applications**.
+My background in Mechanical Engineering combined with AI helps me build intelligent automation systems for real-world industrial problems.
 
-- 💬 Ask me about **Machine Learning tools, Deep learning tools, Statistics, Mechanical Subjects(Thermodynamics, Fluid Mechanics, Engineering Mathematics3)**
+---
 
-- 📫 How to reach me **1234nadimshah@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/shahnadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/shahnadim" height="30" width="40" /></a>
-</p>
+* 🔭 Currently working on **Computer Vision & Machine Vision Systems**
+* 🤖 Building applications using **YOLO, DeepFace, OCR, Tracking Algorithms, LLMs, and Generative AI**
+* 🏭 Experienced in developing **industrial automation and Industry 4.0 solutions**
+* 🧠 Interested in **Large Language Models (LLMs), Multimodal AI, Edge AI, and Intelligent Surveillance Systems**
+* 📚 Currently learning **Advanced Neural Networks, AWS, and AI System Design**
+* 💬 Ask me about:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  * Computer Vision
+  * Deep Learning
+  * Machine Learning
+  * Industrial AI
+  * OCR Systems
+  * Real-Time Tracking
+  * Machine Vision
+  * Python Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* C
+* SQL
+
+### AI / Deep Learning
+
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* OpenCV
+* YOLO
+* DeepFace
+
+### Computer Vision & AI
+
+* Object Detection
+* Face Recognition
+* OCR Systems
+* Image Processing
+* Tracking Algorithms
+* Real-Time AI Systems
+* Machine Vision Inspection Systems
+
+### Backend & Tools
+
+* Flask
+* FastAPI
+* Git & GitHub
+* MySQL
+* MSSQL
+* Pandas
+* NumPy
+
+### Industrial & Domain Knowledge
+
+* Industry 4.0
+* Manufacturing AI
+* Predictive Maintenance
+* Industrial Automation
+* Mechanical Engineering Fundamentals
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Real-Time Face Recognition Attendance System
+
+Built a complete AI-powered attendance and alert system using:
+
+* YOLO
+* DeepFace
+* StrongSORT
+* Flask
+* Real-Time Streaming
+* Email Alert System
+
+Features:
+
+* Face Recognition
+* Person Tracking
+* Attendance Automation
+* Unauthorized Person Detection
+* Live Dashboard
+
+---
+
+### 🔹 Industrial Machine Vision Inspection System
+
+Developed AI-based inspection solutions for:
+
+* Defect Detection
+* OCR & Batch Code Reading
+* Presence/Absence Verification
+* Quality Inspection Automation
+
+---
+
+### 🔹 ADAS & AI Surveillance Applications
+
+Worked on:
+
+* Driver Monitoring
+* Object Detection
+* Real-Time Video Analytics
+* Intelligent Safety Monitoring Systems
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/shahnadim](http://www.linkedin.com/in/shahnadim)
+* Email: [1234nadimshah@gmail.com](mailto:1234nadimshah@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy combining **AI + Industrial Engineering** to build smart systems that solve practical manufacturing and automation problems.
